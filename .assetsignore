@@ -1,6 +1,8 @@
 wrangler.jsonc
 .assetsignore
 .gitignore
+.git
 .github
+.wrangler
 README.md
 node_modules
