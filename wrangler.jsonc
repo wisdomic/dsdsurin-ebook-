@@ -1,6 +1,10 @@
 {
   "name": "dsdsurin-ebook",
   "compatibility_date": "2025-11-01",
+  "workers_dev": true,
+  "routes": [
+    { "pattern": "ebook.surinskill.net", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./"
   }
